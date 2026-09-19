@@ -1,8 +1,8 @@
 {
-  "generadoEn": "2026-09-19T06:01:02.684Z",
+  "generadoEn": "2026-09-19T13:01:41.434Z",
   "fechaObjetivo": "2026-09-20",
-  "fuenteDatos": "2026-09-19T06:01:01.062Z",
-  "totalPartidos": 282,
+  "fuenteDatos": "2026-09-19T13:01:40.209Z",
+  "totalPartidos": 283,
   "destacados": 89,
   "partidos": [
     {
@@ -322,6 +322,59 @@
         "rachaGanadora": false
       },
       "destacado": false
+    },
+    {
+      "liga": "Argentina - Liga Profesional - Clausura",
+      "region": "Argentina",
+      "ligaSlug": "argentina2",
+      "equipoLocal": "Velez Sarsfield",
+      "equipoVisita": "Tigre",
+      "horaInicio": "2026-09-21T01:30:00.000Z",
+      "equipoFavorito": "Velez Sarsfield",
+      "probabilidades": {
+        "ganadorLocal": 62.5,
+        "empate": 25,
+        "ganadorVisita": 12.5,
+        "generalLocal": 38.9,
+        "generalEmpate": 44.4,
+        "generalVisita": 16.7,
+        "ganadorSimpleLocal": 44.4,
+        "ganadorSimpleVisita": 33.3,
+        "ganadorCasaLocal": 75,
+        "ganadorFueraVisita": 25,
+        "btts": 20,
+        "over15": 42.5,
+        "over25": 0,
+        "over35": 0,
+        "over05HT": 77.5,
+        "over15HT": 55,
+        "over25HT": 0
+      },
+      "rachas": {
+        "local": "-",
+        "visita": "-"
+      },
+      "ppg": {
+        "localGeneral": 1.89,
+        "localCasa": 2.5,
+        "visitaGeneral": 1.33,
+        "visitaFuera": 1
+      },
+      "ataqueDefensa": {
+        "ataqueLocal": 16.7,
+        "defensaLocal": 119,
+        "ataqueVisita": 9.7,
+        "defensaVisita": 120.7
+      },
+      "cumple": {
+        "ganador60": true,
+        "ganadorSimple60": false,
+        "over15_60": false,
+        "over25_60": false,
+        "btts60": false,
+        "rachaGanadora": false
+      },
+      "destacado": true
     },
     {
       "liga": "Argentina - Primera Nacional",
@@ -14852,41 +14905,41 @@
       "equipoLocal": "A. Anzoategui",
       "equipoVisita": "Caracas",
       "horaInicio": "2026-09-20T21:00:00.000Z",
-      "equipoFavorito": "Caracas",
+      "equipoFavorito": "A. Anzoategui",
       "probabilidades": {
-        "ganadorLocal": 11.1,
-        "empate": 33.3,
-        "ganadorVisita": 55.6,
-        "generalLocal": 21.1,
-        "generalEmpate": 31.6,
-        "generalVisita": 47.4,
-        "ganadorSimpleLocal": 10,
-        "ganadorSimpleVisita": 22.2,
-        "ganadorCasaLocal": 0,
-        "ganadorFueraVisita": 50,
-        "btts": 0,
-        "over15": 10,
-        "over25": 0,
-        "over35": 0,
-        "over05HT": 75,
-        "over15HT": 12.5,
-        "over25HT": 12.5
+        "ganadorLocal": null,
+        "empate": null,
+        "ganadorVisita": null,
+        "generalLocal": null,
+        "generalEmpate": null,
+        "generalVisita": null,
+        "ganadorSimpleLocal": null,
+        "ganadorSimpleVisita": null,
+        "ganadorCasaLocal": null,
+        "ganadorFueraVisita": null,
+        "btts": null,
+        "over15": null,
+        "over25": null,
+        "over35": null,
+        "over05HT": null,
+        "over15HT": null,
+        "over25HT": null
       },
       "rachas": {
-        "local": "-",
-        "visita": "-"
+        "local": null,
+        "visita": null
       },
       "ppg": {
-        "localGeneral": 0.5,
-        "localCasa": 0.4,
-        "visitaGeneral": 1.11,
-        "visitaFuera": 1.75
+        "localGeneral": null,
+        "localCasa": null,
+        "visitaGeneral": null,
+        "visitaFuera": null
       },
       "ataqueDefensa": {
-        "ataqueLocal": 6.3,
-        "defensaLocal": 103.5,
-        "ataqueVisita": 11.1,
-        "defensaVisita": 113.8
+        "ataqueLocal": null,
+        "defensaLocal": 131,
+        "ataqueVisita": null,
+        "defensaVisita": 131
       },
       "cumple": {
         "ganador60": false,
@@ -14907,49 +14960,49 @@
       "horaInicio": "2026-09-20T22:00:00.000Z",
       "equipoFavorito": "E. Merida",
       "probabilidades": {
-        "ganadorLocal": 60,
-        "empate": 30,
-        "ganadorVisita": 10,
-        "generalLocal": 50,
-        "generalEmpate": 20,
-        "generalVisita": 30,
-        "ganadorSimpleLocal": 40,
-        "ganadorSimpleVisita": 30,
-        "ganadorCasaLocal": 60,
-        "ganadorFueraVisita": 20,
-        "btts": 0,
-        "over15": 20,
-        "over25": 0,
-        "over35": 0,
-        "over05HT": 80,
-        "over15HT": 40,
-        "over25HT": 30
+        "ganadorLocal": null,
+        "empate": null,
+        "ganadorVisita": null,
+        "generalLocal": null,
+        "generalEmpate": null,
+        "generalVisita": null,
+        "ganadorSimpleLocal": null,
+        "ganadorSimpleVisita": null,
+        "ganadorCasaLocal": null,
+        "ganadorFueraVisita": null,
+        "btts": null,
+        "over15": null,
+        "over25": null,
+        "over35": null,
+        "over05HT": null,
+        "over15HT": null,
+        "over25HT": null
       },
       "rachas": {
-        "local": "-",
-        "visita": "-"
+        "local": null,
+        "visita": null
       },
       "ppg": {
-        "localGeneral": 1.5,
-        "localCasa": 2.2,
-        "visitaGeneral": 1,
-        "visitaFuera": 0.8
+        "localGeneral": null,
+        "localCasa": null,
+        "visitaGeneral": null,
+        "visitaFuera": null
       },
       "ataqueDefensa": {
-        "ataqueLocal": 13.8,
-        "defensaLocal": 112.1,
-        "ataqueVisita": 13.8,
-        "defensaVisita": 101.8
+        "ataqueLocal": null,
+        "defensaLocal": 131,
+        "ataqueVisita": null,
+        "defensaVisita": 131
       },
       "cumple": {
-        "ganador60": true,
+        "ganador60": false,
         "ganadorSimple60": false,
         "over15_60": false,
         "over25_60": false,
         "btts60": false,
         "rachaGanadora": false
       },
-      "destacado": true
+      "destacado": false
     }
   ]
 }
