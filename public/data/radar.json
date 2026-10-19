@@ -1,7 +1,7 @@
 {
-  "generadoEn": "2026-10-19T14:28:55.264Z",
+  "generadoEn": "2026-10-19T18:01:16.646Z",
   "fechaObjetivo": "2026-10-20",
-  "fuenteDatos": "2026-10-19T14:28:54.217Z",
+  "fuenteDatos": "2026-10-19T18:01:15.723Z",
   "totalPartidos": 74,
   "destacados": 26,
   "partidos": [
@@ -327,59 +327,6 @@
       "liga": "Egypt - Premier League",
       "region": "Egypt",
       "ligaSlug": "egypt",
-      "equipoLocal": "Wadi Degla",
-      "equipoVisita": "National Bank",
-      "horaInicio": "2026-10-20T16:00:00.000Z",
-      "equipoFavorito": "Wadi Degla",
-      "probabilidades": {
-        "ganadorLocal": 33.3,
-        "empate": 33.3,
-        "ganadorVisita": 33.3,
-        "generalLocal": 33.3,
-        "generalEmpate": 25,
-        "generalVisita": 41.7,
-        "ganadorSimpleLocal": 16.7,
-        "ganadorSimpleVisita": 50,
-        "ganadorCasaLocal": 0,
-        "ganadorFueraVisita": 33.3,
-        "btts": 16.5,
-        "over15": 33.5,
-        "over25": 0,
-        "over35": 0,
-        "over05HT": 100,
-        "over15HT": 66.5,
-        "over25HT": 16.5
-      },
-      "rachas": {
-        "local": "-",
-        "visita": "-"
-      },
-      "ppg": {
-        "localGeneral": 1,
-        "localCasa": 0.67,
-        "visitaGeneral": 1.5,
-        "visitaFuera": 1
-      },
-      "ataqueDefensa": {
-        "ataqueLocal": 12.5,
-        "defensaLocal": 119,
-        "ataqueVisita": 14.6,
-        "defensaVisita": 119
-      },
-      "cumple": {
-        "ganador60": false,
-        "ganadorSimple60": false,
-        "over15_60": false,
-        "over25_60": false,
-        "btts60": false,
-        "rachaGanadora": false
-      },
-      "destacado": false
-    },
-    {
-      "liga": "Egypt - Premier League",
-      "region": "Egypt",
-      "ligaSlug": "egypt",
       "equipoLocal": "El Geish",
       "equipoVisita": "Pyramids FC",
       "horaInicio": "2026-10-20T18:00:00.000Z",
@@ -428,6 +375,59 @@
         "rachaGanadora": false
       },
       "destacado": true
+    },
+    {
+      "liga": "Egypt - Premier League",
+      "region": "Egypt",
+      "ligaSlug": "egypt",
+      "equipoLocal": "Wadi Degla",
+      "equipoVisita": "National Bank",
+      "horaInicio": "2026-10-20T18:00:00.000Z",
+      "equipoFavorito": "Wadi Degla",
+      "probabilidades": {
+        "ganadorLocal": 33.3,
+        "empate": 33.3,
+        "ganadorVisita": 33.3,
+        "generalLocal": 33.3,
+        "generalEmpate": 25,
+        "generalVisita": 41.7,
+        "ganadorSimpleLocal": 16.7,
+        "ganadorSimpleVisita": 50,
+        "ganadorCasaLocal": 0,
+        "ganadorFueraVisita": 33.3,
+        "btts": 16.5,
+        "over15": 33.5,
+        "over25": 0,
+        "over35": 0,
+        "over05HT": 100,
+        "over15HT": 66.5,
+        "over25HT": 16.5
+      },
+      "rachas": {
+        "local": "-",
+        "visita": "-"
+      },
+      "ppg": {
+        "localGeneral": 1,
+        "localCasa": 0.67,
+        "visitaGeneral": 1.5,
+        "visitaFuera": 1
+      },
+      "ataqueDefensa": {
+        "ataqueLocal": 12.5,
+        "defensaLocal": 119,
+        "ataqueVisita": 14.6,
+        "defensaVisita": 119
+      },
+      "cumple": {
+        "ganador60": false,
+        "ganadorSimple60": false,
+        "over15_60": false,
+        "over25_60": false,
+        "btts60": false,
+        "rachaGanadora": false
+      },
+      "destacado": false
     },
     {
       "liga": "England - Championship",
@@ -3893,10 +3893,10 @@
         "ganadorSimpleVisita": 19.2,
         "ganadorCasaLocal": 61.5,
         "ganadorFueraVisita": 15.4,
-        "btts": null,
-        "over15": null,
-        "over25": null,
-        "over35": null,
+        "btts": 34.5,
+        "over15": 42,
+        "over25": 23,
+        "over35": 0,
         "over05HT": 73,
         "over15HT": 46,
         "over25HT": 19
