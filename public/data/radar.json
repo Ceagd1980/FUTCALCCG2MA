@@ -1,9 +1,9 @@
 {
-  "generadoEn": "2026-10-26T15:12:00.119Z",
+  "generadoEn": "2026-10-26T17:38:20.415Z",
   "fechaObjetivo": "2026-10-27",
-  "fuenteDatos": "2026-10-26T15:11:59.405Z",
-  "totalPartidos": 92,
-  "destacados": 21,
+  "fuenteDatos": "2026-10-26T17:38:19.438Z",
+  "totalPartidos": 93,
+  "destacados": 22,
   "partidos": [
     {
       "liga": "Argentina - Liga Profesional - Clausura",
@@ -269,6 +269,59 @@
         "rachaGanadora": false
       },
       "destacado": false
+    },
+    {
+      "liga": "Croatia - 1. HNL",
+      "region": "Croatia",
+      "ligaSlug": "croatia",
+      "equipoLocal": "Dinamo Zagreb",
+      "equipoVisita": "Rijeka",
+      "horaInicio": "2026-10-27T17:00:00.000Z",
+      "equipoFavorito": "Dinamo Zagreb",
+      "probabilidades": {
+        "ganadorLocal": 70,
+        "empate": 20,
+        "ganadorVisita": 10,
+        "generalLocal": 44.4,
+        "generalEmpate": 16.7,
+        "generalVisita": 38.9,
+        "ganadorSimpleLocal": 66.7,
+        "ganadorSimpleVisita": 55.6,
+        "ganadorCasaLocal": 100,
+        "ganadorFueraVisita": 20,
+        "btts": 47.5,
+        "over15": 70,
+        "over25": 25,
+        "over35": 12.5,
+        "over05HT": 80,
+        "over15HT": 55,
+        "over25HT": 22.5
+      },
+      "rachas": {
+        "local": "-",
+        "visita": "-"
+      },
+      "ppg": {
+        "localGeneral": 2.11,
+        "localCasa": 3,
+        "visitaGeneral": 1.89,
+        "visitaFuera": 1
+      },
+      "ataqueDefensa": {
+        "ataqueLocal": 31.9,
+        "defensaLocal": 110.4,
+        "ataqueVisita": 22.2,
+        "defensaVisita": 110.4
+      },
+      "cumple": {
+        "ganador60": true,
+        "ganadorSimple60": true,
+        "over15_60": true,
+        "over25_60": false,
+        "btts60": false,
+        "rachaGanadora": false
+      },
+      "destacado": true
     },
     {
       "liga": "England - League One",
